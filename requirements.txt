@@ -1,0 +1,10 @@
+numpy
+scipy
+tensorflow >=1.12
+keras
+pandas
+seaborn
+scikit-learn
+gensim
+nltk
+imbalanced-learn
