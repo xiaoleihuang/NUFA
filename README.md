@@ -1,7 +1,7 @@
 # NUFA
 Code Repository for the paper "Neural User Factor Adaptation for Text Classification: Learning to Generalize Across Author Demographics" at *SEM 2019.
 
-![Image of NUFA](https://github.com/xiaoleihuang/NUFA/model.png)
+![Image of NUFA](https://github.com/xiaoleihuang/NUFA/blob/master/model.png)
 
 ## A. Data
 Please download the data from [https://cmci.colorado.edu/~mpaul/files/starsem2019_demographics.data.zip](https://cmci.colorado.edu/~mpaul/files/starsem2019_demographics.data.zip)
