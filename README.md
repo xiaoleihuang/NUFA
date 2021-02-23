@@ -4,7 +4,7 @@ Code Repository for the paper "Neural User Factor Adaptation for Text Classifica
 ![Image of NUFA](https://github.com/xiaoleihuang/NUFA/blob/master/model.png)
 
 ## A. Data
-Please download the data from [https://cmci.colorado.edu/~mpaul/files/starsem2019_demographics.data.zip](https://cmci.colorado.edu/~mpaul/files/starsem2019_demographics.data.zip)
+Please download the data from [http://michaeljpaul.com/files/starsem2019_demographics.data.zip](http://michaeljpaul.com/files/starsem2019_demographics.data.zip)
 
 ## B. Test Environment
 Ubuntu 16.04, Python 3.6+
